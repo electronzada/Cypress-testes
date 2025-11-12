@@ -1,5 +1,15 @@
+# Dependências
 node_modules/
+
+# Pastas geradas automaticamente pelo Cypress
 cypress/videos/
 cypress/screenshots/
 cypress/downloads/
+
+# Variáveis de ambiente e credenciais
 .env
+cypress.env.json
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
